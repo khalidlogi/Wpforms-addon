@@ -18,18 +18,12 @@
 
     <section class="portfolio">
         <div class="portfolio-item">
-            <img src="project1.jpg" alt="Project 1">
             <h2>Project 1</h2>
             <p>Description of Project 1.</p>
             <a href="project1.html">View Project</a>
         </div>
 
-        <div class="portfolio-item">
-            <img src="project2.jpg" alt="Project 2">
-            <h2>Project 2</h2>
-            <p>Description of Project 2.</p>
-            <a href="project2.html">View Project</a>
-        </div>
+
 
         <!-- Add more portfolio items as needed -->
 
